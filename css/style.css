@@ -13,3 +13,39 @@ background-color:white
   text-decoration: none;
   text-transform: uppercase;
 }
+.main-link {
+  background-color: #FF7500;
+  
+font-size: 13px;
+font-weight: 700;
+line-height: 15.23px;
+letter-spacing: 0.5px;
+color: #fff;
+text-decoration: none;
+} 
+.hero-section{
+  background-color: #252420;
+}
+.hero-content{
+  width: 390px;
+  color: #fff;
+}
+.orange-line{
+  weight: 80px;height: 3px;
+background-color: #FF7500;}
+  
+  .hero-title{
+
+    background-colorfont-family: Roboto Condensed;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.5px;
+  }
+  .hero-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+  }
+   
