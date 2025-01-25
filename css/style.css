@@ -48,4 +48,34 @@ background-color: #FF7500;}
     line-height: 24px;
     letter-spacing: 0.5px;
   }
+  .feature-title{
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    letter-spacing:0.5px;
+  }
+  .feature-item{
+    width: 340px;
+    color: #000;
+  }
+  .feature-item-title{
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 28.8px;
+letter-spacing: 0.5px;
+  }
+  .feature-item-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+  }
+  .sale{
+    background-color: #252420;
+  }
+  .sale-content{
+    width: 440px;
+    color: #fff;
+  }
+  
    
